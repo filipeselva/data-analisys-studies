@@ -1,6 +1,6 @@
 # Data Analisys Studies 
 
-Here you will find my data analisys studies. Data frames used will be sourced from all over the internet.
+Here you will find my data analisys studies. DataSets used will be sourced from all over the internet.
 
 ## Why am i doing that?
 
@@ -8,5 +8,5 @@ The reason is simple, the more you do something, the better you do it. Even bett
 
 ## Where is what?
 
-/fataframes - data frames<br>
+/datasets - data sets<br>
 /notebooks - notebooks in the .ipynb format
