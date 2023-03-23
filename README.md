@@ -16,3 +16,7 @@ The reason is simple, the more you do something, the better you do it. Even bett
 [Python](https://www.python.org/)<br>
 [Google Collab](https://colab.research.google.com/)<br>
 [Google Cloud](https://cloud.google.com/?hl=pt-br)
+
+## Honorable Mentions
+
+[SoulCode Academy](https://soulcode.com/) - For introducing me to the world of Data Analisys.
